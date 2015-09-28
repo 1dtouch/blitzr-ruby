@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: nginx/1.4.6 (Ubuntu)
+Date: Mon, 21 Sep 2015 14:58:23 GMT
+Content-Type: application/json
+Connection: close
+X-Powered-By: PHP/5.5.9-1ubuntu4.11
+Cache-Control: no-cache
+Transfer-Encoding: chunked
+
+{"image":"https:\/\/img.blitzr.com\/images\/artist\/AR9DZcf13uCowJT9fa\/AR9DZcf13uCowJT9fa.jpg","thumb_300":"https:\/\/img.blitzr.com\/images\/artist\/AR9DZcf13uCowJT9fa\/AR9DZcf13uCowJT9fa_300.jpg","thumb":"https:\/\/img.blitzr.com\/thumbnails\/artist\/AR9DZcf13uCowJT9fa\/AR9DZcf13uCowJT9fa.jpg","uuid":"AR9DZcf13uCowJT9fa","name":"Oxmo Puccino","real_name":"Abdoulaye Diarra","slug":"oxmo-puccino","tags":[{"weight":12,"name":"Conscious","slug":"hip-hop-conscious"},{"weight":6,"name":"Chanson","slug":"pop-chanson"},{"weight":6,"name":"Pop Rock","slug":"rock-pop-rock"},{"weight":6,"name":"Synth-pop","slug":"electronic-synth-pop"},{"weight":2,"name":"Pop Rap","slug":"hip-hop-pop-rap"},{"weight":1,"name":"Jazzy Hip-Hop","slug":"jazz-jazzy-hip-hop"},{"weight":1,"name":"Jazzy Hip-Hop","slug":"hip-hop-jazzy-hip-hop"}],"type":"Unspecified","begin_date":1974,"location":"France","location_code":"FR","has_duplicate":false}

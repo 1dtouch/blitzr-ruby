@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: nginx/1.4.6 (Ubuntu)
+Date: Mon, 21 Sep 2015 14:58:23 GMT
+Content-Type: application/json
+Connection: close
+X-Powered-By: PHP/5.5.9-1ubuntu4.11
+Cache-Control: no-cache
+Transfer-Encoding: chunked
+
+{"biography":{"text":"Oxmo Puccino was born in 1974 in S\u00e9gou, Mali. He came to Paris one year later, and lived in the XIXe arrondissement from the age of 5. He is the brother of basketball player Mamoutou Diarra. He appeared in the 2006 film Arthur and the Minimoys. Puccino drew on the street-smart American hip-hop of the Notorious B.I.G. and other icons to document life in Paris' hardscrabble 19th district. \r\n\r\nAt age 21 Oxmo began his collaboration with the fledgling rap collective Time Bomb, honing his craft alongside future superstars like Booba and Diam's. He quickly developed into a lyricist with a metaphorical ingenuity far more advanced than his contemporaries, crafting violent yet strangely poetic portraits of urban Paris life. \r\n\r\nIn 1996 Oxmo Puccino made his recorded debut with Pucc. Fiction, a contribution to the compilation L432. A series of subsequent mixtape appearances solidified his growing reputation within the French rap underground, and in 1998 he issued his solo debut, Op\u00e9ra Puccino. Its 2001 follow-up, L'Amour Est Mort, proved Puccino's creative and commercial breakthrough, while 2004's Le Cactus de Sib\u00e9rie confirmed his superstar status. After signing to the venerable jazz label Blue Note, Puccino assembled a new backing group, The Jazzbastards, to record 2006's Lipopette Bar.\r\n\r\n","url":"http:\/\/www.discogs.com\/artist\/Oxmo+Puccino","lang":"en","source":"Discogs"}}

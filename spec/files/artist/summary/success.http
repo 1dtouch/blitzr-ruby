@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: nginx/1.4.6 (Ubuntu)
+Date: Mon, 21 Sep 2015 14:58:23 GMT
+Content-Type: application/json
+Connection: close
+X-Powered-By: PHP/5.5.9-1ubuntu4.11
+Cache-Control: no-cache
+Transfer-Encoding: chunked
+
+{"summary":"Oxmo Puccino is a Conscious \/ Synth-pop artist from France, born in 1974. Oxmo Puccino has released 35 releases, including 9 albums and 17 singles\/EPs. Oxmo Puccino is currently on tour and will play in Sartrouville, France on Friday 9th of October 2015. Oxmo Puccino is similar to Tyrone Perkins or Bertrand Belin."}

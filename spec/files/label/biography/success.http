@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: nginx/1.4.6 (Ubuntu)
+Date: Mon, 21 Sep 2015 14:58:23 GMT
+Content-Type: application/json
+Connection: close
+X-Powered-By: PHP/5.5.9-1ubuntu4.11
+Cache-Control: no-cache
+Transfer-Encoding: chunked
+
+{"biography":{"text":"Please note, many Parlophone issues also carry an EMI logo. This is not a label and EMI should not be added as a label, it instead indicates that Parlophone was part of the EMI Group.\r\n\r\nParlophone is a record label founded in Germany in 1896 by Carl Lindstr\u00f6m, as Parlophon (the \u2018e\u2019 was originally added for UK releases). The L in the logo represents his name. In 1923 an English branch was set up and this was taken over by The Columbia Graphophone Company in 1927, thus becoming a constituent part of EMI when that company merged with The Gramophone Company in 1931.\r\n\r\nThe label largely operated as a Jazz and Novelty label until manager, George Martin, signed the Beatles in 1962. As a result of its subsequent success and profile, it was the only pop label to retain its identity when EMI merged all its non-US labels in 1973.\r\n\r\nIn September 2012 following the acquisition of EMI Group's US and Asian interests by Universal Music Group, Parlophone and the former EMI Records Ltd. were merged as the Parlophone Label Group and spun off to be sold. \r\n\r\nThey were sold to Warner Music Group in March 2013.\r\n\r\nThe Parlophone label is now owned by Parlophone Records Limited, the re-named EMI Records Ltd., itself a subsidiary of Warner Music International.\r\n\r\nThe Beatles were not part of the Parlophone Label Group and their catalogue was acquired by Universal.\r\n\r\nLabelcode: LC 0299\r\n\r\nThis label contains releases on multinational markets. Do NOT create imprints for different countries. Cover that information on new releases with the country field and with notes about the release (releasing company, \u2117&\u00a9 note, mechanical rights etc.).\r\n\r\n","uri":"http:\/\/www.discogs.com\/label\/Parlophone","lang":"en","source":"Discogs"}}
